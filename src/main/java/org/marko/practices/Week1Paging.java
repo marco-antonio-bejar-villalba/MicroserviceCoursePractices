@@ -9,10 +9,10 @@ import java.net.URL;
 
 import javax.net.ssl.HttpsURLConnection;
 
-public class HttpExample {
+public class Week1Paging {
 
     //webpage url
-	private static final String HTTPS_URL = "https://jsonmock.hackerrank.com/api/movies/search/?Title=spiderman&page=1";
+	private static final String HTTPS_URL = "https://en.wikipedia.org/wiki/FC_Bayern_Munich";
 
 	public static void main(String[] args) {
 
